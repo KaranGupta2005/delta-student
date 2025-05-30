@@ -1,2 +1,2 @@
 # delta-student
-learning version control
+learning version control.
